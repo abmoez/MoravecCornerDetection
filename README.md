@@ -1,4 +1,4 @@
-# MoravecCornerDetection
+# Moravec Corner Detection
 
 The **Moravec Corner Detection** algorithm is one of the earliest corner detection techniques. 
 It detects interest points by evaluating how much a small window shifts in intensity in multiple directions. 
